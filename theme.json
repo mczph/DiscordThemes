@@ -4,14 +4,13 @@
     "description": "AnimeVision by sleepingfatcat modified by mczph.",
     "authors": [
       {
-        "name": "@sleepingfatcat",
-        "id": "908089062294949888"
+        "name": "mczph(formal author @sleepingfatcat)"
       }
     ],
     "semanticColors": {
       "ANDROID_RIPPLE": ["#4E2B062F"],
-      "TEXT_NORMAL": ["#DADEE0"],
-      "TEXT_MUTED": ["#8294A8"],
+      "TEXT_NORMAL": ["#FFFFFF"],
+      "TEXT_MUTED": ["#DADEE0"],
       "TEXT_DANGER": ["#FAD0FF"],
       "TEXT_LINK": ["#411F44"],
       "BG_BACKDROP": ["#072B062F"],
