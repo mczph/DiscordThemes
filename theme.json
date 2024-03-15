@@ -11,8 +11,8 @@
       "ANDROID_RIPPLE": ["#4E2B062F"],
       "TEXT_NORMAL": ["#FFFFFF"],
       "TEXT_MUTED": ["#DADEE0"],
-      "TEXT_DANGER": ["#FAD0FF"],
-      "TEXT_LINK": ["#411F44"],
+      "TEXT_DANGER": ["#E7B6EE"],
+      "TEXT_LINK": ["#FAD0FF"],
       "BG_BACKDROP": ["#072B062F"],
       "BACKGROUND_PRIMARY": ["#411F44"],
       "BACKGROUND_SECONDARY": ["#2B062F"],
@@ -97,7 +97,7 @@
     },
     "background": {
       "url": "https://raw.githubusercontent.com/mczph/DiscordThemes/main/Arona+Plana.jpg",
-      "alpha": 0.5
+      "alpha": 0.2
     },
     "spec": 2
   }
