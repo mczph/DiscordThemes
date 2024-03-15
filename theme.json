@@ -1,7 +1,7 @@
 {
-    "name": "PurpleArchive",
+    "name": "AzusaArchive",
     "version": "1.0.0",
-    "description": "A modified theme of AnimeVision by mczph.",
+    "description": "AnimeVision by sleepingfatcat modified by mczph.",
     "authors": [
       {
         "name": "@sleepingfatcat",
@@ -97,8 +97,7 @@
       }
     },
     "background": {
-      "blur": 0.6,
-      "url": "https://raw.githubusercontent.com/mczph/mczph/main/Azusa_Swimsuit.jpg",
+      "url": "https://raw.githubusercontent.com/mczph/mczph/main/Azusa.jpg",
       "alpha": 0.5
     },
     "spec": 2
