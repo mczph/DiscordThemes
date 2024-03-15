@@ -1,6 +1,6 @@
 {
     "name": "PurpleArchive",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "description": "AnimeVision by sleepingfatcat modified by mczph.",
     "authors": [
       {
@@ -20,7 +20,7 @@
       "BACKGROUND_TERTIARY": ["#2B062F"],
       "BACKGROUND_ACCENT": ["#E7B6EE"],
       "BACKGROUND_FLOATING": ["#411F44"],
-      "BACKGROUND_MOBILE_PRIMARY": ["##2B062F"],
+      "BACKGROUND_MOBILE_PRIMARY": ["#411F44"],
       "BACKGROUND_MOBILE_SECONDARY": ["#2B062F"],
       "BACKGROUND_NESTED_FLOATING": ["#2B062F"],
       "BACKGROUND_MESSAGE_HOVER": ["#FAD0FF"],
@@ -94,6 +94,10 @@
         "StatusOffline": "#737F8D",
         "StatusOnline": "#00FF00"
       }
+    },
+    "background": {
+      "url": "https://raw.githubusercontent.com/mczph/DiscordThemes/main/Arona+Plana.jpg",
+      "alpha": 0.5
     },
     "spec": 2
   }
