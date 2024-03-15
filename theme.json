@@ -1,5 +1,5 @@
 {
-    "name": "AzusaArchive",
+    "name": "PurpleArchive",
     "version": "1.0.0",
     "description": "AnimeVision by sleepingfatcat modified by mczph.",
     "authors": [
@@ -96,7 +96,7 @@
       }
     },
     "background": {
-      "url": "https://raw.githubusercontent.com/mczph/mczph/main/Azusa.jpg",
+      "url": "https://raw.githubusercontent.com/mczph/DiscordThemes/main/Arona+Plana.jpg",
       "alpha": 0.5
     },
     "spec": 2
