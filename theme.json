@@ -34,9 +34,9 @@
         "#717593"
       ],
       "INTERACTIVE_NORMAL": [
-        "#a2d7e1",
+        "#FAD0FF",
         false,
-        "#a2d7e1"
+        "#FAD0FF"
       ],
       "INTERACTIVE_HOVER": [
         "#d7c1f7",
@@ -130,9 +130,9 @@
         "#6272a4"
       ],
       "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-        "#a2d7e1",
+        "#FAD0FF",
         false,
-        "#a2d7e1"
+        "#FAD0FF"
       ],
       "SCROLLBAR_THIN_THUMB": [
         "#6272a4",
@@ -189,7 +189,7 @@
       "PRIMARY_100": "#b7b7b3",
       "PRIMARY_200": "#44475a",
       "PRIMARY_300": "#B6B6B6",
-      "PRIMARY_360": "#8be9fd",
+      "PRIMARY_360": "#E1B0E7",
       "PRIMARY_400": "#b6b6b6",
       "PRIMARY_500": "#b7b7b3",
       "PRIMARY_600": "#282a36",
@@ -198,8 +198,8 @@
       "PRIMARY_800": "#282a36",
       "BRAND_260": "#f8f8f2",
       "BRAND_500": "#bd93f9",
-      "BRAND_900": "#8be9fd",
-      "BLUE_345": "#8be9fd",
+      "BRAND_900": "#E1B0E7",
+      "BLUE_345": "#E1B0E7",
       "YELLOW_300": "#f1fa8c",
       "GREEN_600": "#50fa7b",
       "DANGER": "#ff5555",
@@ -218,7 +218,7 @@
         "StatusOnline": "#00FF00"
       }
     },
-        "background": {
+    "background": {
       "url": "https://raw.githubusercontent.com/mczph/DiscordThemes/main/Arona+Plana.jpg",
       "alpha": 0.5
     },
