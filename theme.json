@@ -183,7 +183,23 @@
         "#17181f",
         false,
         "#282a36"
-      ]
+      ],
+      "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#1a234e"],
+      "REDESIGN_ACTIVITY_CARD_BORDER": ["#1d63b3"],
+      "BG_MOD_FAINT": ["#2680E6"],
+      "BG_MOD_SUBTLE": ["#2680E6"],
+      "BG_MOD_STRONG": ["#2680E6"],
+      "CARD_PRIMARY_BG": ["#071240"],
+      "CARD_PRIMARY_PRESSED_BG": ["#1a234e"],
+      "CARD_SECONDARY_BG": ["#1a234e"],
+      "CARD_SECONDARY_PRESSED_BG": ["#0f1530"],
+      "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#1a234e"],
+      "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": ["#0f1530"],
+      "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": ["#0e194f"],
+      "REDESIGN_BUTTON_SECONDARY_BORDER": ["#2680E6"],
+      "BORDER_FAINT": ["#1d63b3"],
+      "BORDER_STRONG": ["#2680E6"],
+      "BORDER_SUBTLE": ["#1d63b3"]
     },
     "rawColors": {
       "PRIMARY_100": "#b7b7b3",
@@ -196,6 +212,8 @@
       "PRIMARY_630": "#282a36",
       "PRIMARY_700": "#282a36",
       "PRIMARY_800": "#282a36",
+      "PLUM_18": "#0f1530",
+      "PLUM_20": "#0f1530",
       "BRAND_260": "#f8f8f2",
       "BRAND_500": "#bd93f9",
       "BRAND_900": "#E1B0E7",
