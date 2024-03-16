@@ -9,9 +9,9 @@
     ],
     "semanticColors": {
       "HEADER_PRIMARY": [
-        "#bd93f9",
+        "#6b4c98",
         false,
-        "#bd93f9"
+        "#6b4c98"
       ],
       "HEADER_SECONDARY": [
         "#f8f8f2",
@@ -29,7 +29,7 @@
         "#b7b7b3"
       ],
       "TEXT_LINK": [
-        "#bd93f9",
+        "#6b4c98",
         false,
         "#717593"
       ],
@@ -46,7 +46,7 @@
       "INTERACTIVE_ACTIVE": [
         "#f8f8f2",
         false,
-        "#bd93f9"
+        "#6b4c98"
       ],
       "INTERACTIVE_MUTED": [
         "#b7b7b3",
@@ -74,9 +74,9 @@
         "#000000"
       ],
       "BACKGROUND_ACCENT": [
-        "#bd93f9",
+        "#6b4c98",
         false,
-        "#bd93f9"
+        "#6b4c98"
         
       ],
       "BACKGROUND_FLOATING": [
@@ -100,7 +100,7 @@
         "#44475a"
       ],
       "BACKGROUND_MENTIONED": [
-        "#6b4c98",
+        "#bd93f9",
         false,
         "#5a5e77"
       ],
@@ -125,7 +125,7 @@
         "#282a36"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
-        "#bd93f9",
+        "#6b4c98",
         false,
         "#6272a4"
       ],
@@ -184,21 +184,21 @@
         false,
         "#282a36"
       ],
-      "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#6b4c98"],
+      "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#bd93f9"],
       "REDESIGN_ACTIVITY_CARD_BORDER": ["#d7c1f7"],
-      "BG_MOD_FAINT": ["#bd93f9"],
-      "BG_MOD_SUBTLE": ["#bd93f9"],
-      "BG_MOD_STRONG": ["#bd93f9"],
+      "BG_MOD_FAINT": ["#6b4c98"],
+      "BG_MOD_SUBTLE": ["#6b4c98"],
+      "BG_MOD_STRONG": ["#6b4c98"],
       "CARD_PRIMARY_BG": ["#2B062F"],
-      "CARD_PRIMARY_PRESSED_BG": ["#6b4c98"],
-      "CARD_SECONDARY_BG": ["#6b4c98"],
+      "CARD_PRIMARY_PRESSED_BG": ["#bd93f9"],
+      "CARD_SECONDARY_BG": ["#bd93f9"],
       "CARD_SECONDARY_PRESSED_BG": ["#2B062F"],
-      "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#6b4c98"],
+      "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#bd93f9"],
       "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": ["#2B062F"],
       "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": ["#211722"],
-      "REDESIGN_BUTTON_SECONDARY_BORDER": ["#bd93f9"],
+      "REDESIGN_BUTTON_SECONDARY_BORDER": ["#6b4c98"],
       "BORDER_FAINT": ["#d7c1f7"],
-      "BORDER_STRONG": ["#bd93f9"],
+      "BORDER_STRONG": ["#6b4c98"],
       "BORDER_SUBTLE": ["#d7c1f7"]
     },
     "rawColors": {
@@ -215,7 +215,7 @@
       "PLUM_18": "#2B062F",
       "PLUM_20": "#2B062F",
       "BRAND_260": "#f8f8f2",
-      "BRAND_500": "#bd93f9",
+      "BRAND_500": "#6b4c98",
       "BRAND_900": "#E1B0E7",
       "BLUE_345": "#E1B0E7",
       "YELLOW_300": "#f1fa8c",
