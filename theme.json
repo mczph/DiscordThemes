@@ -218,5 +218,9 @@
         "StatusOnline": "#00FF00"
       }
     },
+        "background": {
+      "url": "https://raw.githubusercontent.com/mczph/DiscordThemes/main/Arona+Plana.jpg",
+      "alpha": 0.5
+    },
     "spec": 2
   }
